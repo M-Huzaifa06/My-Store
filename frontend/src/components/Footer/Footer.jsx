@@ -101,10 +101,6 @@ const Footer = () => {
             <p className="text-sm">&copy; {currentYear} <span className="text-white font-semibold">My Store</span>. All rights reserved.</p>
           </div>
 
-          <div className="w-full md:w-1/3 flex justify-center">
-            <span className="text-xs sm:text-sm">Made with ❤️ by Me</span>
-          </div>
-
           <div className="w-full sm:w-1/2 flex flex-wrap justify-center md:justify-end gap-2 text-xs sm:text-sm">
             <span className="px-2">Secure Payments</span>
             <span className="hidden md:inline px-1">•</span>
